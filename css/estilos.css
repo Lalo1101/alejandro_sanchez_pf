@@ -1,0 +1,26 @@
+
+ body {
+	background-image: url("../media/img/fondo3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.margen-arriba {
+  margin-top: 25px;
+}
+
+.foto{
+	width: 200px;
+}
+
+.justificado{
+	text-align: justify;
+}
+
+.margen-arriba2 {
+  margin-top: 6em;
+}
+
+.margen-arriba3{
+	margin-top: 7.5em;
+}
